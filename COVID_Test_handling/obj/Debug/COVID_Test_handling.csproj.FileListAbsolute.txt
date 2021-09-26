@@ -1,0 +1,10 @@
+c:\users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\bin\Debug\COVID_Test_handling.exe.config
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\bin\Debug\COVID_Test_handling.exe
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\bin\Debug\COVID_Test_handling.pdb
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.Form1.resources
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.manual.resources
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.Properties.Resources.resources
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.csproj.GenerateResource.Cache
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.exe
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.pdb
+C:\Users\hutibres\onedrive - lego\documents\visual studio 2015\Projects\COVID_Test_handling\COVID_Test_handling\obj\Debug\COVID_Test_handling.listHistory.resources
